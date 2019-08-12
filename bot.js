@@ -662,4 +662,4 @@ client.on('message', msg => {
 
 /////
 
-client.login('NTU4NjMzNzI3MjkxNTU1ODcw.XOtC_A.hKNRUxWxDJCKIPLe6gD_jp1m-NU');
+client.login('BOT_TOKEN');
